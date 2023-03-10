@@ -1,4 +1,8 @@
 this is first line
+<<<<<<< HEAD
 this is line 2
 this is line 3
 this is line 4
+=======
+this is line 2
+>>>>>>> parent of b7ff717 (third commit)
